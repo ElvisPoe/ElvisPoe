@@ -8,7 +8,7 @@ class ElvisPoe:
         self.name = 'Elvis Poenaru'
         self.position = 'Software Engineer'
         self.linkedin = 'https://www.linkedin.com/in/elvis-poenaru/'
-        self.cv = ''
+        self.cv = 'https://elvispoe.github.io/ElvisPoenaru.pdf'
         self.code = {
             'backend': ['Laravel', 'Golang', 'Python', 'Django', 'FastAPI', 'PHP'],
             'database': [, 'MySQL', 'SQLite3', 'Mongo DB', 'Redis', 'PostgreSQL'],
